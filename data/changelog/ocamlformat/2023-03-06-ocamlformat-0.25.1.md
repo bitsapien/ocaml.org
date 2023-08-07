@@ -116,7 +116,7 @@ Here are a few examples:
 
 ---
 
-We would like to thank all contributors for their valuable contributions to this release. Please see the [complete changelog](https://github.com/ocaml-ppx/ocamlformat/releases/tag/0.25.0) for more details.
+We would like to thank all contributors for their valuable contributions to this release. Please see the [complete changelog](https://github.com/ocaml-ppx/ocamlformat/releases/tag/0.25.0 - [429 Too Many Requests]) for more details.
 
 We hope you enjoy this release and continue to find OCamlFormat a valuable tool for your OCaml projects. You can download `ocamlformat.0.25.1` from the opam repository or GitHub.
 

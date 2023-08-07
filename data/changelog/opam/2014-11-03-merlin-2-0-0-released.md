@@ -8,7 +8,7 @@ tags: [opam, platform, release]
 
 After a few months of development, we are pleased to announce the
 [stable release](https://github.com/ocaml/merlin/blob/v2.0/CHANGELOG) of
-[Merlin 2.0](https://github.com/the-lambda-church/merlin).  
+[Merlin 2.0](https://github.com/the-lambda-church/merlin - [429 Too Many Requests]).  
 Supported OCaml versions range from 4.00.1 to 4.02.1.
 
 ### Overview
@@ -21,7 +21,7 @@ such as:
 * quickly reporting errors in the editor.
 
 We provide integration into Vim and Emacs.  An external plugin is also
-available for [Sublime Text](https://github.com/def-lkb/sublime-text-merlin).
+available for [Sublime Text](https://github.com/def-lkb/sublime-text-merlin - [429 Too Many Requests]).
 
 ### What's new
 
@@ -32,9 +32,9 @@ messages.
 Integration with Jane Street Core and js\_of\_ocaml has also improved.
 
 Vim & Emacs are still the main targeted editors. 
-Thanks to [Luc Rocher](https://github.com/Cynddl), preliminary support for
+Thanks to [Luc Rocher](https://github.com/Cynddl - [429 Too Many Requests]), preliminary support for
 Sublime Text is also available, see
-[Sublime-text-merlin](https://github.com/def-lkb/sublime-text-merlin).
+[Sublime-text-merlin](https://github.com/def-lkb/sublime-text-merlin - [429 Too Many Requests]).
 Help is welcome to improve and extend supported editing environments.
 
 Windows support also received some fixes.  Merlin is now distributed in
@@ -45,7 +45,7 @@ Windows support also received some fixes.  Merlin is now distributed in
 
 This new version of Merlin is already available with opam using `opam install
 merlin`, and can also be built from the sources which are available at
-[the-lambda-church/merlin](http://github.com/the-lambda-church/merlin).
+[the-lambda-church/merlin](http://github.com/the-lambda-church/merlin - [429 Too Many Requests]).
 
 ### Changelog
 

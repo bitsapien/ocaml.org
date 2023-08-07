@@ -5,7 +5,7 @@ date: "2022-12-14"
 tags: [opam-publish, platform, release]
 ---
 
-We are pleased to announce the minor release of [opam-publish 2.2.0](https://github.com/ocaml-opam/opam-publish/releases/tag/2.2.0).
+We are pleased to announce the minor release of [opam-publish 2.2.0](https://github.com/ocaml-opam/opam-publish/releases/tag/2.2.0 - [429 Too Many Requests]).
 
 This opam-publish release consists of the following breaking change:
   * Shorten the generated branch name. This is breaking change for people who want to force-push changes on an already opened PR using a previous version of opam-publish as the branch name might not be the same ([#141](https://github.com/ocaml-opam/opam-publish/issues/141))

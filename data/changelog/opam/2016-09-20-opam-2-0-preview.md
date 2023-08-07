@@ -12,7 +12,7 @@ tags: [opam, platform, release]
 
 We are pleased to announce a preview release for <span class="opam">opam</span> 2.0, with over 700
 patches since [1.2.2](https://opam.ocaml.org/blog/opam-1-2-2-release/). Version
-[2.0~alpha4](https://github.com/ocaml/opam/releases/2.0-alpha4) has just been
+[2.0~alpha4](https://github.com/ocaml/opam/releases/2.0-alpha4 - [429 Too Many Requests]) has just been
 released, and is ready to be more widely tested.
 
 This version brings many new features and changes, the most notable one being
@@ -24,7 +24,7 @@ environments such as [Coq](https://web.archive.org/web/20170410035834/http://coq
 ## A Few Highlights
 
 This is just a sample, see the full
-[changelog](https://github.com/ocaml/opam/blob/2.0-alpha4/CHANGES) for more:
+[changelog](https://github.com/ocaml/opam/blob/2.0-alpha4/CHANGES - [429 Too Many Requests]) for more:
 
 - **Sandboxed builds:** Command wrappers can be configured to, for example,
   restrict permissions of the build and install processes using Linux
@@ -158,15 +158,15 @@ You can otherwise install as usual:
     wget https://raw.github.com/ocaml/opam/2.0-alpha4-devel/shell/opam_installer.sh -O - | sh -s /usr/local/bin
 
   Equivalently,
-  [pick your version](https://github.com/ocaml/opam/releases/2.0-alpha4) and
+  [pick your version](https://github.com/ocaml/opam/releases/2.0-alpha4 - [429 Too Many Requests]) and
   download it to your PATH;
 
 - Building from our inclusive source tarball:
-  [download here](https://github.com/ocaml/opam/releases/download/2.0-alpha4/opam-full-2.0-alpha4.tar.gz)
+  [download here](https://github.com/ocaml/opam/releases/download/2.0-alpha4/opam-full-2.0-alpha4.tar.gz - [429 Too Many Requests])
   and build using `./configure && make lib-ext && make && make install` if you
   have OCaml >= 4.01 already available, `make cold && make install` otherwise;
 
-- Or from [source](https://github.com/ocaml/opam/tree/2.0-alpha4), following the
+- Or from [source](https://github.com/ocaml/opam/tree/2.0-alpha4 - [429 Too Many Requests]), following the
   included instructions from the README. Some files have been moved around, so
   if your build fails after you updated an existing git clone, try to clean it
   up (`git clean -fdx`).

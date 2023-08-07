@@ -123,7 +123,7 @@ This feature is still a bit experimental, we have ideas on how to improve it but
 - A `check` command that you can run ahead of a release to know if dune-release has all the information it needs in the repository, along with running the lint, build and test checks it normally runs after building the tarball.
 We're aware that it can be frustrating to see dune-release fail right in the middle of the release process. We're trying to improve this situation and this is a first step in that direction.
 
-You can see the full changelog [here](https://github.com/ocamllabs/dune-release/releases/tag/1.5.0)
+You can see the full changelog [here](https://github.com/ocamllabs/dune-release/releases/tag/1.5.0 - [429 Too Many Requests])
 
 You'll note we also deprecated a few features such as delegates (as we announced in [this post](https://discuss.ocaml.org/t/replacing-dune-release-delegates/4767)), opam 1.x and the `--user` option and corresponding config file field.
 This release is likely to be the last 1.x release of `dune-release` except for important bug fixes as we'll start working on 2.0 soon.

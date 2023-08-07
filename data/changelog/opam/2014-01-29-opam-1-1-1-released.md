@@ -52,7 +52,7 @@ Installation instructions are available
 Note that some packages may take a few days until they get out of the
 pipeline. If you're eager to get 1.1.1, either use our
 [binary installer](https://raw.github.com/ocaml/opam/master/shell/opam_installer.sh) or
-[compile from source](https://github.com/ocaml/opam/releases/tag/1.1.1).
+[compile from source](https://github.com/ocaml/opam/releases/tag/1.1.1 - [429 Too Many Requests]).
 
 The 'official' package repository is now hosted at [opam.ocaml.org][],
 synchronised with the Git repository at
